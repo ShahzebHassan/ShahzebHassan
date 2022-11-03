@@ -1,0 +1,50 @@
+h1 {
+    font-weight: bold;
+    margin-left: 40%;
+    color: #4e6fe5;
+}
+
+h2 {
+    font-weight: bold;
+    color: #4e6fe5;
+}
+
+#users {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 30px;
+}
+
+#users td,
+#users th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#users tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#users tr:hover {
+    background-color: #ddd;
+}
+
+#users th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4e6fe5;
+    color: white;
+}
+
+.expandChildTable:before {
+    content: "+";
+    display: block;
+    cursor: pointer;
+
+}
+
+.childTableRow table {
+    border: 2px solid #555;
+}

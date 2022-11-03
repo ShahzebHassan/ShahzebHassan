@@ -1,0 +1,91 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "name": "Shahzeb",
+      "grade": "A",
+      "classs": "MS",
+      "department": "Computer Sceince",
+      "uni": "Punjab University",
+      "batch": "2020-2022",
+      "subjects": [
+        {
+          "id": "1",
+          "name": "computer",
+          "creditHours": "3",
+          "lecturer": "James"
+        },
+        {
+          "id": "2",
+          "name": "maths",
+          "creditHours": "3",
+          "lecturer": "Sam"
+        },
+        {
+          "id": "3",
+          "name": "it",
+          "creditHours": "3",
+          "lecturer": "Mark"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Saqlain",
+      "grade": "B",
+      "classs": "MS",
+      "department": "Sceince",
+      "uni": "Oheio University",
+      "batch": "2020-2022",
+      "subjects": [
+        {
+          "id": "1",
+          "name": "science",
+          "creditHours": "3",
+          "lecturer": "James"
+        },
+        {
+          "id": "2",
+          "name": "maths",
+          "creditHours": "3",
+          "lecturer": "Alex"
+        },
+        {
+          "id": "3",
+          "name": "English",
+          "creditHours": "3",
+          "lecturer": "Mark"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sadaqat",
+      "grade": "C",
+      "classs": "BS",
+      "department": "Maths",
+      "uni": "Preston University",
+      "batch": "2020-2022",
+      "subjects": [
+        {
+          "id": "1",
+          "name": "Calculus",
+          "creditHours": "3",
+          "lecturer": "Mickel"
+        },
+        {
+          "id": "2",
+          "name": "Algebra",
+          "creditHours": "3",
+          "lecturer": "Stoner"
+        },
+        {
+          "id": "3",
+          "name": "it",
+          "creditHours": "3",
+          "lecturer": "Mark"
+        }
+      ]
+    }
+  ]
+}
